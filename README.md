@@ -1,6 +1,4 @@
-# **Project Wake-up Time**
-by using Neural Network
----
+# **Project Wake-up Time** - by using Neural Network
 
 Description
 ---
